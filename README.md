@@ -5,10 +5,14 @@ Background image animation with masked view and reanimated libraries.
 <h1 align="center">Masked View Animation 🎭</h1>
 <br>
 
+https://github.com/vladimir-vovk/masked-view-animation/assets/3159737/e01ae2bb-5494-4bd6-94e3-f0f4fb135ead
+
+Inspired by the [excellent tutorial](https://www.youtube.com/watch?v=If64FL3SdLU) by William Candillon.
+
 ## Quick start
 
 1. Clone the repo.
-2. Change directory to the project with `cd masked-view-animation` command.
+2. Change the directory to the project with `cd masked-view-animation` command.
 3. Run `yarn start` to start the Metro Bundler.
 4. Press `i` to start the iOS simulator or `a` to run the Android emulator.📱
 
